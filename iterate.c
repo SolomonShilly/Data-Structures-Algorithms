@@ -16,5 +16,3 @@ void iterate(void) {
   // Printing the character string
   printf("%s", inventory);
 }
-
-// Implementations of different data structures and algorithims in various software languages to practice different computer science concepts
